@@ -1,0 +1,36 @@
+.main-navigation ul {
+  margin: 0;
+  padding: 15px 15px 15px 15px;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.main-navigation ul a {
+  color: white;
+  background-color: rgb(220, 169, 210);
+  font-size: large;
+  font-weight: bold;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  vertical-align: top;
+}
+
+.site-title {
+  text-align: center;
+  font-size: xx-large;
+  font-family: sans-serif;
+  color: #6392e9;
+}
+
+.site-description {
+  font-weight: 300;
+  color: black;
+  font-size: larger;
+  padding-top: 2%;
+}
